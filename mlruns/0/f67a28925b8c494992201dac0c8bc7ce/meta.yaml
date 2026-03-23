@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/NetworkSecurityProject/mlruns/0/f67a28925b8c494992201dac0c8bc7ce/artifacts
+end_time: 1774249281951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67a28925b8c494992201dac0c8bc7ce
+run_name: skittish-grouse-672
+run_uuid: f67a28925b8c494992201dac0c8bc7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774249276920
+status: 4
+tags: []
+user_id: Amber

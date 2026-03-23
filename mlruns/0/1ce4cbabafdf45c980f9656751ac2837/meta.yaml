@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/NetworkSecurityProject/mlruns/0/1ce4cbabafdf45c980f9656751ac2837/artifacts
+end_time: 1774250055690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ce4cbabafdf45c980f9656751ac2837
+run_name: monumental-shark-554
+run_uuid: 1ce4cbabafdf45c980f9656751ac2837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774250052411
+status: 3
+tags: []
+user_id: Amber
